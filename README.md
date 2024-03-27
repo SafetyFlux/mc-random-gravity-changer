@@ -18,6 +18,7 @@ If you feature this data pack in a video, I do ask that you link this page in yo
 - Add settings for the following:
   - Time between gravity changes.
   - Directions to include/exclude.
+  - Whether all players shift to the same direction or not.
 
 ## Links
 [Modrinth Page](https://modrinth.com/datapack/gravity-changes-randomly)
