@@ -3,7 +3,8 @@ gravity set_base_direction Down @a
 
 # Remove scoreboard objectives and bossbar
 scoreboard objectives remove GravityTimer
-scoreboard objectives remove GravityDirection
+scoreboard objectives remove NextGravDirection
+scoreboard objectives remove CurrGravDirection
 bossbar remove minecraft:rgctimer
 
 # Send confirmation message

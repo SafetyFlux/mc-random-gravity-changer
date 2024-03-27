@@ -1,8 +1,10 @@
 # Add objectives
 scoreboard objectives add GravityTimer dummy
-scoreboard objectives add GravityDirection dummy
+scoreboard objectives add NextGravDirection dummy
+scoreboard objectives add CurrGravDirection dummy
 scoreboard players set value GravityTimer 0
-scoreboard players set value GravityDirection 0
+scoreboard players set value NextGravDirection 0
+scoreboard players set value CurrGravDirection 0
 
 # Set up timer bossbar
 bossbar add minecraft:rgctimer [{"text":"Next Direction: ","color":"white"},{"text":"Loading...","color":"green"}]
