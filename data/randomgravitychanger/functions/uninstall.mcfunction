@@ -1,0 +1,13 @@
+# Reset all players' gravity
+gravity set_base_direction Down @a
+
+# Remove scoreboard objectives and bossbar
+scoreboard objectives remove GravityTimer
+scoreboard objectives remove GravityDirection
+bossbar remove minecraft:rgctimer
+
+# Send confirmation message
+tellraw @a {"text":"Random Gravity Changer v0.1 has been successfully uninstalled!","color":"red"}
+
+# Disable datapack
+datapack disable "file/random-gravity-changer-v0.1-MC-1.20.4.zip"
