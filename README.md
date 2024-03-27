@@ -1,6 +1,6 @@
 # Gravity Changes Randomly
 ## General
-With this data pack, your gravity will change to a random direction every 30 seconds. As the idea is fairly disruptive for normal gameplay, it's perfect for challenge runs. Since this is my first ever datapack, it's rough around the edges. I do plan to update it with new features when I have the time, though. Feedback and suggestions are greatly appreciated!
+With this data pack, your gravity will change to a random direction every 30 seconds. As the idea is fairly disruptive for normal gameplay, it's perfect for challenge runs. Since this is my first ever data pack, it's rough around the edges. I do plan to update it with new features when I have the time, though. Feedback and suggestions are greatly appreciated!
 
 If you feature this data pack in a video, I do ask that you link this page in your description. I want those who are interested in the idea to have the opportunity to try out my content!
 
