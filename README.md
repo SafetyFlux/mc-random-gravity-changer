@@ -11,10 +11,8 @@ If you feature this data pack in a video, I do ask that you link this page in yo
 - [Cloth Config API](https://modrinth.com/mod/cloth-config)
 
 ## Todo
-- Create an icon for pack.png (and for this project page).
 - Add screenshots to this project page.
 - Add a check which verifies the correct mods are installed.
-- Prevent the data pack from picking the same direction twice in a row.
 - Add settings for the following:
   - Time between gravity changes.
   - Directions to include/exclude.
