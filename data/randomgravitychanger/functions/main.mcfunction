@@ -19,6 +19,7 @@ execute if score value GravityTimer matches 0..9 if score value NextGravDirectio
 execute if score value GravityTimer matches 0..9 if score value NextGravDirection matches 5 run bossbar set minecraft:rgctimer name [{"text":"Next Direction: ","color":"white"},{"text":"West","color":"green"}]
 
 # Set the bossbar value
+bossbar set minecraft:rgctimer players @a
 execute store result bossbar minecraft:rgctimer value run scoreboard players get value GravityTimer
 
 # Increment the timer and reset when it hits 600
