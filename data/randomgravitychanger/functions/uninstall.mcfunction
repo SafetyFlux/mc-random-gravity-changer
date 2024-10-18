@@ -8,7 +8,7 @@ scoreboard objectives remove CurrGravDirection
 bossbar remove minecraft:rgctimer
 
 # Send confirmation message
-tellraw @a {"text":"Random Gravity Changer v0.2 has been successfully uninstalled!","color":"red"}
+tellraw @a {"text":"Random Gravity Changer v0.3 has been successfully uninstalled!","color":"red"}
 
 # Disable datapack
-datapack disable "file/random-gravity-changer-v0.2-MC-1.20.4.zip"
+datapack disable "file/random-gravity-changer-v0.3-MC-1.20.4.zip"

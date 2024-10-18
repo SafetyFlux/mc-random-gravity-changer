@@ -14,4 +14,4 @@ bossbar set minecraft:rgctimer max 600
 bossbar set minecraft:rgctimer style notched_6
 
 # Send confirmation message
-tellraw @a {"text":"Random Gravity Changer v0.2 has been successfully loaded!","color":"green"}
+tellraw @a {"text":"Random Gravity Changer v0.3 has been successfully loaded!","color":"green"}
